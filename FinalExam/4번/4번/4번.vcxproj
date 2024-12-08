@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0de73642-778d-468a-86f2-c8929eb6a183}</ProjectGuid>
+    <ProjectGuid>{696259f0-a574-4199-9c0c-f30760a5db6f}</ProjectGuid>
     <RootNamespace>My4번</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
